@@ -1,5 +1,7 @@
 #FS22_Rogel_MK120
 
+Direkt Download:https://github.com/LSFactoryMODS/LS22_RogelMK120/releases/tag/v1.1.0.0
+
 English:
 
 MoinMoin
