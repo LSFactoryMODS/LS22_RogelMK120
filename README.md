@@ -1,3 +1,5 @@
+English:
+
 MoinMoin
 
 The Rogel MK120,
@@ -12,8 +14,10 @@ The price is 95000€
 
 As with my other mods, support for the tipper is on my DC https://discord.gg/9ykq9dHFEn
 
-Thanks
+Thanks LSFactoryMODS
 
+
+Deutsch:
 
 MoinMoin
 
@@ -29,4 +33,4 @@ Der Preis beläuft sich auf 95000€
 
 Wie bei meinen anderen Mods gilt auch hier Support für den Kipper erfolgt auf meinem DC https://discord.gg/9ykq9dHFEn
 
-Lieben dank
+Lieben dank LSFactoryMODS
