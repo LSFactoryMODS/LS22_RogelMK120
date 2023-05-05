@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="73">
+    <author>Bjoern_AkA_FactoryMODS</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Rogel MK120 Dumper</en>
+        <de>Rogel MK120 Muldenkipper</de>
+        <fr>Rogel MK120 Benne A` Ordures</fr>
+    </title>
+    <description>
+        <en>
+ <![CDATA[
+ The Rogel MK120 is a dump trailer for transporting any bulk material.
+ Configurations:
+ - Color selection
+ - Rim color selection    
+ Price: 95000 $
+ Capacity: 63400 L
+ ]]></en>
+       <de>
+<![CDATA[
+Der Rogel MK120 ist ein Muldenkipper zum Transportieren jeglicher Schüttgüter.
+Konfigurationen:
+- Farbauswahl
+- Felgenfarbauswahl    
+Preis: 95000 €
+Kapazität: 63400 L
+]]></de>
+        <fr>
+ <![CDATA[Le Rogel MK120 est un tombereau destiné au transport de tous types de matériaux en vrac.
+ Configurations :
+ - Choix des couleurs
+ - Choix de la couleur des roues    
+ Prix: 95000 €
+ Capacité: 63400 L
+ ]]> </fr>
+    </description>
+    <iconFilename>icon_Rogel_MK120.dds</iconFilename>
+    <storeItems>
+        <storeItem   xmlFilename="Rogel_MK120.xml"/>      
+    </storeItems>
+    <multiplayer supported="true"/>
+    <brands>
+        <brand name="ROGEL" title="Rogel" image="Brand_Rogel.dds"/>
+    </brands>
+    
+    <l10n>
+        <text name="configuration_kipperColor">
+        <en>Dump Color</en>
+        <de>Muldenfarbe</de>
+        <fr>Changer la couleur de la benne basculante</fr>
+        </text>
+        <text name="configuration_klappeColor">
+        <en>Flap Color</en>
+        <de>Klappenfarbe</de>
+        <fr>Modifier la couleur du rabat</fr>
+        </text>
+        <text name="red">
+        <en>Red</en>
+        <de>Rot</de>
+        </text>
+     </l10n>
+
+
+
+</modDesc>
+ 
